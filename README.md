@@ -19,12 +19,12 @@ This repository contains Dart Basics Part 2 programs created for assignment subm
 - Maps
 - String Manipulation
 - Class and Object
-- Basic Object Oriented Programming
+- Basic OOP Concepts
 
 ## Output Screenshot
 
 ### Program Output
-![Output](Screenshot 2026-05-03 171923.png)
+![Output](Screenshot%202026-05-03%20171923.png)
 
 ## Result
 
