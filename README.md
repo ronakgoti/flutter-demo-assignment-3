@@ -24,7 +24,7 @@ This repository contains Dart Basics Part 2 programs created for assignment subm
 ## Output Screenshot
 
 ### Program Output
-![Output](Screenshot%202026-05-03%20114702.png)
+![Output](Screenshot 2026-05-03 171923.png)
 
 ## Result
 
